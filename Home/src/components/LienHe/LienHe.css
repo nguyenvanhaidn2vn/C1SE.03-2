@@ -1,0 +1,29 @@
+.contacttt{
+    margin: 5%;
+    margin-bottom: -20%;
+}
+.contact .map iframe{
+    width: 80%;
+}
+.information-contactt{
+    margin-top: 2%;
+}
+.information-contactt h2{
+    padding-bottom: 15px;
+    font-weight: 700;
+    color: rgb(72, 72, 72);
+}
+.information-contactt .fulfill-information h2{
+    padding-bottom: 15px;
+    font-weight: 700;
+    color: rgb(72, 72, 72);
+}
+.information-contactt input{
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(214, 214, 214);
+    width: 80%;
+    height: 40px;
+    outline: none;
+    padding-left: 7px;
+}

@@ -1,0 +1,42 @@
+.col-even{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: #ccc;
+    height: 50px;
+    align-items: center;
+    padding: 0 12px;
+    
+}
+.col-odd{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+    padding: 0 12px;
+}
+.processing{
+    padding: 5px 5px 5px 5px;
+    margin: 0;
+    margin-left: -16px;
+    background: #acd9ae;
+    width: 23%;
+    margin-top:16px;
+    color: #3b683c;
+    border-radius: 6px;
+    text-align: center;
+}
+.pending{
+    padding: 5px 5px 5px 5px;
+    margin: 0;
+    margin-left: -16px;
+    background: #ffe878;
+    width: 23%;
+    margin-top:16px;
+    color: #9a6f03;
+    border-radius: 6px;
+    text-align: center;
+}
+.col__checkbox{
+    width: 5%;
+}

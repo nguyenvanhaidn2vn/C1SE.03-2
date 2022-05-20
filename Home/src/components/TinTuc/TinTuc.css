@@ -1,0 +1,41 @@
+.news{
+    margin: 4.5%;
+}
+.news .content{
+    flex: 1;
+    display: flex;
+}
+.news .image-news img{
+    width: 390px;
+    margin-bottom: 1.5%;
+}
+.news .title-news a{
+    font-size: 22px;
+    color: black;
+    display: -webkit-box;
+    word-break: break-all;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    transition: 0.5s;
+}
+.news .title-news a:hover{
+    color: rgb(105, 105, 105);
+    transition: 0.5s;
+}
+.br{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    height: 2px;
+    background-color: red;
+    width: 40px;
+}
+.news .description-news p{
+    font-size: 95%;
+}
+.news .create-at{
+    font-size: 85%;
+    color: rgb(146, 146, 146);
+    font-style: italic;
+    float: right;
+}

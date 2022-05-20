@@ -1,0 +1,18 @@
+.bill {
+    margin: 3%;
+}
+.bill .information-user{
+    margin-bottom: 2%;
+}
+.bill .information-user img{
+    border-radius: 50%;
+    width: 5%;
+    padding-right: 5px;
+}
+.bill .information-bill button{
+    background-color: red;
+    color: white;
+    border: none;
+    width: 70px;
+    font-weight: 500;
+}

@@ -1,0 +1,48 @@
+.form-information-bill .bill .choosen-sex input{
+    margin-right: 5px;
+}
+.form-information-bill .bill .choosen-sex label{
+    margin-right: 20px;
+}
+.form-information-bill .bill .information-user .name{
+    width: 49%;
+}
+.form-information-bill .bill .information-user .phone{
+    width: 50%;
+}
+.form-information-bill .bill .information-user .locate{
+    height: 60px;
+    padding-bottom: 30px;
+}
+.form-information-bill .bill .information-user .note{
+    height: 60px;
+    padding-bottom: 30px;
+}
+.form-information-bill .bill .information-user input{
+    margin-bottom: 10px;
+    border: 1px solid rgb(180, 180, 180);
+    outline: none;
+    width: 100%;
+    padding-left: 10px;
+    height: 35px;
+}
+.form-information-bill .bill .total{
+    font-size: 110%;
+    margin-bottom: 15px;
+}
+.form-information-bill .bill .total .total-money{
+    font-weight: 500;
+    padding-left: 10px;
+}
+.form-information-bill .bill .order button{
+    width: 100%;
+    height: 40px;
+    outline: none;
+    color: white;
+    background-color: rgb(173, 135, 65);
+    border: none;
+    font-weight: 600;
+    font-size: 115%;
+    cursor: pointer;
+    border-radius: 5px;
+}
